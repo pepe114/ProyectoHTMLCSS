@@ -1,0 +1,1 @@
+//Este es un archivo de dependencias para los scripts de javascript
